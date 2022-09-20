@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-print("hello world")
-print("wooooww")
-print("nyobaaa")
-print("brach update")
-=======
->>>>>>> update
 print("aokdadaid;naind;oawibdahnfaio")
 print("adjpaisdjasijdjajdsnfsdf")
+a = 2
+b = 3
+print(a+b)
+print(a*b)
 
